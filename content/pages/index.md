@@ -251,7 +251,7 @@ sections:
         title: Dhruv Desai
     grid_cols: three
     align: center
-    background_color: primary
+    background_color: secondary
     enable_cards: false
   - type: blog_feed_section
     title: What's New
