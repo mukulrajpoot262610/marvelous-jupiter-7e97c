@@ -248,7 +248,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-        title: Dhruv
+        title: Dhruv Desai
       - title: Hilary Ouse
         subtitle: Operations Manager
         title_align: center
