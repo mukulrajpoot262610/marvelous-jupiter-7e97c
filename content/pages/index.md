@@ -228,7 +228,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Who we are?
-    subtitle: LeadLancer.in Team
+    subtitle: LeadLance.in Team
     actions:
       - label: Join the team
         url: /style-guide
