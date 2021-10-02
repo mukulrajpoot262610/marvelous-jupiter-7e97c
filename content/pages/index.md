@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Our Services
-    subtitle: LeadLancer.in
+    subtitle: LeadLance.in
     features:
       - title: UI/UX Design
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
