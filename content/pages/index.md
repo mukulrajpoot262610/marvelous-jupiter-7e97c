@@ -234,7 +234,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Gaurav Sharma
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
