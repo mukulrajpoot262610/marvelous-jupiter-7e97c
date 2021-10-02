@@ -62,7 +62,7 @@ export default class GridItem extends React.Component {
                             'grid-gap-none': isHorizontal,
                             'flex': !isHorizontal,
                             'flex-column': !isHorizontal,
-                            it
+                            'item'
                         })}
                     >
                         {image && (
