@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: LeadLancer.in
-    subtitle: Optional hero section subtitle
+    subtitle: We are web development agency based in India.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
