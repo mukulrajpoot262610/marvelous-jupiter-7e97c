@@ -26,7 +26,7 @@ sections:
     title: Our Services
     subtitle: LeadLancer.in
     features:
-      - title: The Big Title For the Feature
+      - title: UI/UX Design
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
