@@ -249,7 +249,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
         title: Dhruv Desai
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: secondary
   - type: blog_feed_section
