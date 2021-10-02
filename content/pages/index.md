@@ -252,7 +252,7 @@ sections:
     grid_cols: three
     align: center
     background_color: secondary
-    enable_cards: true
+    enable_cards: false
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
