@@ -82,7 +82,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          “LeadLancer.in is fast! Themes are always up to date. It’s easy to use
           across the organization, and collaboration is easy.”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
