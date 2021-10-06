@@ -111,7 +111,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Let's work together!
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Let's create something together that is worth sharing.
     actions:
       - label: Compare Plans
         url: /pricing
