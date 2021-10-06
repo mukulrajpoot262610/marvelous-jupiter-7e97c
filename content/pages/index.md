@@ -130,7 +130,7 @@ sections:
         image: /images/classic/icon-1.svg
         image_alt: Section item 2 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: lorem-ipsum
         subtitle: lorem-ipsum
