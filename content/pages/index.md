@@ -89,7 +89,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: Why Us?
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
