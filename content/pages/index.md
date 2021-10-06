@@ -132,6 +132,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: fourty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
