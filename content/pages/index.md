@@ -131,18 +131,6 @@ sections:
         image_has_padding: true
         image: /images/classic/icon-1.svg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
