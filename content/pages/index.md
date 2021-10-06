@@ -90,7 +90,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Why Us?
-    subtitle: Grid Section Example
+    subtitle: LeadLance.in
     grid_items:
       - title: Section Item 1
         title_align: left
