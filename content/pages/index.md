@@ -78,9 +78,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “LeadLance.in is fast! They did amazing job. Highly Impressed with
-          their service”
+      - title: Peoples who make us Proud.
         subtitle: >-
           “LeadLance.in is fast! They did amazing job. Highly Impressed with
           their service”
