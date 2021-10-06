@@ -81,7 +81,9 @@ sections:
       - title: >-
           “LeadLance.in is fast! They did amazing job. Highly Impressed with
           their service”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: >-
+          “LeadLance.in is fast! They did amazing job. Highly Impressed with
+          their service”
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
