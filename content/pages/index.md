@@ -197,10 +197,7 @@ sections:
   - type: grid_section
     title: Who we are?
     subtitle: LeadLance.in Team
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Gaurav Sharma
         subtitle: Co-Founder & CEO
