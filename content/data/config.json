@@ -38,7 +38,7 @@
             {
                 "label": "Contact",
                 "url": "/general-enquiries",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Get a Quote",
