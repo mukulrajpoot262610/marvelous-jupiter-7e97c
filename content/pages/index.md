@@ -10,6 +10,7 @@ sections:
       - label: Contact
         url: /contact
         style: primary
+        has_icon: true
       - label: Work
         url: /features
         style: secondary
