@@ -86,6 +86,8 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        content: |
+          ## Peoples who&#xA;make us Proud.&#xA;&#xA;
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
