@@ -111,13 +111,7 @@ sections:
       - title: 24*7 Customer Support
         title_align: center
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/classic/icon-1.svg
         image_alt: Section item 2 icon
