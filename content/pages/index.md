@@ -125,6 +125,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/classic/icon-1.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
