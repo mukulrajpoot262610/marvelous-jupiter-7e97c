@@ -132,7 +132,7 @@ sections:
         image_has_padding: true
         image: /images/classic/icon-1.svg
       - title: Friendly Developers
-        title_align: right
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
