@@ -148,7 +148,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
       - content: >-
