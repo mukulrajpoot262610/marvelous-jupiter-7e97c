@@ -114,7 +114,7 @@ sections:
     content: |
       Let's create something together that is worth sharing.
     actions:
-      - label: Compare Plans
+      - label: Contact Now
         url: /pricing
         style: primary
     align: center
