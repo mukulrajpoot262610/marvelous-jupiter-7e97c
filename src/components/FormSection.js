@@ -36,6 +36,11 @@ export default class FormSection extends React.Component {
         const formHoneypotName = formId + '-bot-field';
         const isHorizontal = content && (formPosition === 'left' || formPosition === 'right');
 
+
+        const handleSubmit = () => {
+            
+        }
+
         return (
             <section
                 id={sectionId}
