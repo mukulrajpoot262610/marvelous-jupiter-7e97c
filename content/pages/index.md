@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: LeadLance.in
+    title: We build Quality Products!
     subtitle: We are web development agency based in India.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
