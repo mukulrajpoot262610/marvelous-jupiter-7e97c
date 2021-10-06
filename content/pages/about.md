@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Who we are?
-    subtitle: About Page Demo
+    subtitle: About LeadLance
     align: center
     background_color: secondary
   - type: features_section
