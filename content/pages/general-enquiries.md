@@ -63,7 +63,7 @@ sections:
     padding_bottom: medium
     background_color: primary
 seo:
-  title: General Enquiries
+  title: contact
   description: This is the general enquiries page
   extra:
     - name: 'og:type'
