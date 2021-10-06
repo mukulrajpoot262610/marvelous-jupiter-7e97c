@@ -5,7 +5,7 @@ sections:
     title: We build Quality Products!
     subtitle: >-
       LeadLance is a software firm based out of india run by web magicians. We
-      are pro
+      are prodigious team of developers
     actions:
       - label: Contact
         url: /pricing
