@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: We build Quality Products!
-    subtitle: LeadLance is a software firm based out of india run by web magicians.
+    subtitle: >-
+      LeadLance is a software firm based out of india run by web magicians. We
+      are
     actions:
       - label: Contact
         url: /pricing
