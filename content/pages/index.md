@@ -92,7 +92,7 @@ sections:
     title: Why Us?
     subtitle: LeadLance.in
     grid_items:
-      - title: Section Item 1
+      - title: Best Engineers
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
