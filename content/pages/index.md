@@ -193,6 +193,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    has_border: true
   - type: grid_section
     title: Who we are?
     subtitle: LeadLance.in Team
