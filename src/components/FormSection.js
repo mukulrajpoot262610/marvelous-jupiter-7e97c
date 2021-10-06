@@ -40,7 +40,7 @@ export default class FormSection extends React.Component {
         const handleSubmit = (e) => {
             e.preventDefault();
 
-            
+            console.log()
         }
 
         return (
