@@ -100,8 +100,7 @@ export default class FormSection extends React.Component {
                             <form
                                 name={formId}
                                 id={formId}
-                                {...(formAction ? ({ action: formAction }) : null)}
-                                method="POST"
+                                onSubmit={handleSubmit}
                                 data-netlify="true"
                                 data-netlify-honeypot={formHoneypotName}
                                 className={classNames({
