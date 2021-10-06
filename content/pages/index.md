@@ -93,7 +93,7 @@ sections:
     subtitle: LeadLance.in
     grid_items:
       - title: Best Engineers
-        title_align: right
+        title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
