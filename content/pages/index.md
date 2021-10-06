@@ -8,7 +8,7 @@ sections:
       are prodigious team of developers.
     actions:
       - label: Contact
-        url: /pricing
+        url: /contact
         style: primary
       - label: Work
         url: /features
