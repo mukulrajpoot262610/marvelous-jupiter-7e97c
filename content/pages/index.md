@@ -274,7 +274,7 @@ sections:
       with creative ideas
 
     actions:
-      - label: Button
+      - label: Contact Now
         url: /pricing
         style: primary
     actions_position: bottom
