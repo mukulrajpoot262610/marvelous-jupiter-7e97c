@@ -95,13 +95,7 @@ sections:
       - title: Best Engineers
         title_align: center
         content_align: center
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/classic/icon-2.svg
         image_alt: Section item 1 icon
