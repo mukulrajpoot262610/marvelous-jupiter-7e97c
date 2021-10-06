@@ -87,7 +87,8 @@ sections:
         media_position: right
         media_width: thirty-three
         content: |
-          ## Peoples who&#xA;make us Proud.&#xA;&#xA;
+          > Brandon Guidelines, Sr. Design Manager at Company
+          >
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
