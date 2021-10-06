@@ -37,7 +37,9 @@ export default class FormSection extends React.Component {
         const isHorizontal = content && (formPosition === 'left' || formPosition === 'right');
 
 
-        const handleSubmit = () => {
+        const handleSubmit = (e) => {
+            e.preventDefault();
+
             
         }
 
