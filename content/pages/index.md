@@ -131,7 +131,7 @@ sections:
         image_align: center
         image_has_padding: true
         image: /images/classic/icon-1.svg
-      - title: lorem-ipsum
+      - title: Friendly Developers
         title_align: left
         content_align: left
         actions: []
