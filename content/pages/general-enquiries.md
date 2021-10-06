@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Contact Us!
-    subtitle: We are always open to help businesess
+    subtitle: We are always open to help business
     align: center
     padding_top: medium
     padding_bottom: medium
