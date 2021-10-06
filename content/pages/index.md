@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We build Quality Products!
-    subtitle: LeadLance.in is software firm based out of india
+    subtitle: LeadLance.in is software firm based out of india.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
