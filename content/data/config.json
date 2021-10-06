@@ -2,7 +2,7 @@
     "title": "LeadLance.in - software development firm",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "bold",
+    "style": "minimal",
     "palette": "green",
     "mode": "light",
     "base_font": "sans-serif",
